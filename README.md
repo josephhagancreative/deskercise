@@ -1,4 +1,4 @@
-#Deskercise
+# Deskercise
 
 ### A website made with NextJS, Typescript and Tailwind CSS
 
